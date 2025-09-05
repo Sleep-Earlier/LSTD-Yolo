@@ -1,0 +1,8 @@
+train: /root/autodl-fs/ultralytics-yolo11-main/images/CrowdDensity_Enhanced/train # train images (relative to 'path') 4 images
+val: /root/autodl-fs/ultralytics-yolo11-main/images/CrowdDensity_Enhanced/val   # val images (relative to 'path') 4 images
+test: /root/autodl-fs/ultralytics-yolo11-main/images/CrowdDensity_Enhanced/test
+
+nc: 1
+
+# class names
+names: ['person']
